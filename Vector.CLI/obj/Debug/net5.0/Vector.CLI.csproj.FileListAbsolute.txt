@@ -1,0 +1,16 @@
+C:\Users\Oscar\OneDrive\Development\Vector\Vector.CLI\bin\Debug\net5.0\Vector.CLI.exe
+C:\Users\Oscar\OneDrive\Development\Vector\Vector.CLI\bin\Debug\net5.0\Vector.CLI.deps.json
+C:\Users\Oscar\OneDrive\Development\Vector\Vector.CLI\bin\Debug\net5.0\Vector.CLI.runtimeconfig.json
+C:\Users\Oscar\OneDrive\Development\Vector\Vector.CLI\bin\Debug\net5.0\Vector.CLI.runtimeconfig.dev.json
+C:\Users\Oscar\OneDrive\Development\Vector\Vector.CLI\bin\Debug\net5.0\Vector.CLI.dll
+C:\Users\Oscar\OneDrive\Development\Vector\Vector.CLI\bin\Debug\net5.0\ref\Vector.CLI.dll
+C:\Users\Oscar\OneDrive\Development\Vector\Vector.CLI\bin\Debug\net5.0\Vector.CLI.pdb
+C:\Users\Oscar\OneDrive\Development\Vector\Vector.CLI\obj\Debug\net5.0\Vector.CLI.csprojAssemblyReference.cache
+C:\Users\Oscar\OneDrive\Development\Vector\Vector.CLI\obj\Debug\net5.0\Vector.CLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar\OneDrive\Development\Vector\Vector.CLI\obj\Debug\net5.0\Vector.CLI.AssemblyInfoInputs.cache
+C:\Users\Oscar\OneDrive\Development\Vector\Vector.CLI\obj\Debug\net5.0\Vector.CLI.AssemblyInfo.cs
+C:\Users\Oscar\OneDrive\Development\Vector\Vector.CLI\obj\Debug\net5.0\Vector.CLI.csproj.CoreCompileInputs.cache
+C:\Users\Oscar\OneDrive\Development\Vector\Vector.CLI\obj\Debug\net5.0\Vector.CLI.dll
+C:\Users\Oscar\OneDrive\Development\Vector\Vector.CLI\obj\Debug\net5.0\ref\Vector.CLI.dll
+C:\Users\Oscar\OneDrive\Development\Vector\Vector.CLI\obj\Debug\net5.0\Vector.CLI.pdb
+C:\Users\Oscar\OneDrive\Development\Vector\Vector.CLI\obj\Debug\net5.0\Vector.CLI.genruntimeconfig.cache
