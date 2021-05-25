@@ -8,5 +8,10 @@ namespace Vector.Velocity
         {
             return (speed / 1000) / Constants.HOUR_PER_SECOND;
         }
+
+        public static double ConvertFromKmToMs(double speed)
+        {
+            return (speed * 1000) / Constants.SECOND_PER_HOUR;
+        }
     }   
 }

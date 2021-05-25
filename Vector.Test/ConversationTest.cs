@@ -16,5 +16,15 @@ namespace Vector.Test
 
             Assert.AreEqual(expected, actual);
         }
+
+        [TestMethod]
+        public void CanConvertFromKmToMs()
+        {
+            double expected = 27.78;
+            int testFixture = 100;
+            double actual = Math.Round(Conversation.ConvertFromKmToMs(testFixture), 2);
+
+            Assert.AreEqual(expected, actual);
+        }
     }
 }

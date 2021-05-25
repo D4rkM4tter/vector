@@ -14,6 +14,8 @@ namespace Vector.Velocity
 
         public static double HOUR_PER_SECOND = Math.Round((1 / 3600.0), 7);
 
+        public static double SECOND_PER_HOUR = 3600;
+
 
     }
 }
